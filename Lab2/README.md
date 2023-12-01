@@ -1,22 +1,23 @@
 ### Scenariusz testowy dla Chrome.py:
-#### Test 1: Przeglądanie strony z grami komputerowymi
-1. **Krok 1:** Otwórz stronę z grami komputerowymi.
+#### Test 1: Wejscie w odpowiedni link
+1. **Krok 1:** Otwórz stronę
 2. **Krok 2:** Sprawdź, czy strona poprawnie się załadowała.
-3. **Krok 3:** Maksymalizuj okno przeglądarki.
+3. **Krok 3:** Kliknij w link A/B Testing
 
-#### Test 2: Przełączanie trybu ciemnego
-1. **Krok 1:** Kliknij przycisk przełączający dark mode.
-2. **Krok 2:** Oczekuj, aż tryb ciemny zostanie aktywowany.
-
-#### Test 3: Wyszukiwanie gry - GTA V - w wyszukiwarce
-1. **Krok 1:** Kliknij pole wyszukiwania.
-2. **Krok 2:** Wprowadź tekst - GTA V - i naciśnij Enter.
-3. **Krok 3:** Oczekuj na wyniki wyszukiwania.
-
-#### Test 4: Przewijanie strony na dół
-1. **Krok 1:** Przewiń stronę w dół o 600 pikseli.
-2. **Krok 2:** Oczekuj, aż strona zostanie pomyślnie przewinięta.
-
+#### Test 2: Dodawanie elementu
+1. **Krok 1:** Powrót do strony głównej
+2. **Krok 2:** Wejdź w link Add/Remove Elements
+3. **Krok 3:** Kliknij przycisk dodaj element
+4. **Krok 4:** Sprawdz czy element istnieje
+   
+#### Test 3: Usuniecie elementu
+1. **Krok 1:** Kliknij usuń element
+2. **Krok 2:** Sprawdz czy element został usunięty
+   
+#### Test 4: Kliknij checkboxa
+1. **Krok 1:** Powrót na stronę główną
+2. **Krok 2:** Wejdź w link Checkboxes
+3. **Krok 3:** Kliknij checkboxa
 
 
 ### Scenariusz testowy dla Firefox:
